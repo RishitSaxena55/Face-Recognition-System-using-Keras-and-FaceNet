@@ -2,10 +2,6 @@
 
 A robust deep learning-based face recognition system built using **Keras**, **FaceNet**, and **OpenCV**. This system detects faces in images and identifies individuals by comparing their facial embeddings to a known database.
 
-## 📸 Example Output
-
-<img src="examples/recognized_faces.jpg" alt="Recognized Faces" width="600"/>
-
 ---
 
 ## 🚀 Features
