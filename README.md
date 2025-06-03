@@ -4,6 +4,20 @@ A robust deep learning-based face recognition system built using **Keras**, **Fa
 
 ---
 
+
+## 📦 Dataset
+
+This project uses the **Labeled Faces in the Wild (LFW)** dataset:
+
+🔗 [LFW People Dataset on Kaggle](https://www.kaggle.com/datasets/atulanandjha/lfwpeople)
+
+To use:
+1. Download and extract the dataset in your working directory.
+2. Use the `lfw_funneled/` folder as the database of known identities.
+
+---
+
+
 ## 🚀 Features
 
 - Face detection using Haar cascades
